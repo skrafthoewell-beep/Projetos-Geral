@@ -7,9 +7,7 @@ Aqui estarão disponíveis meus principais projetos pessoais e um guia para quem
 5
 ## APOSTILAS LINKS
 HTML na prática (beta):
-https://docs.google.com/ document/d/ 1h8F2UnH—А6ay6xEF0IDS×j×pV
-uQqCPvYkqBLdbPgd2s/edit?
-usp=drivesdk
+https://docs.google.com/document/d/1h8F2UnH-A6ay6xEFOIDSxjxpVuQqCPvYkqBLdbPgd2s/edit?usp=drivesdk
 6
 7
 8
