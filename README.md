@@ -9,6 +9,5 @@ https://docs.google.com/document/d/1h8F2UnH-A6ay6xEFOIDSxjxpVuQqCPvYkqBLdbPgd2s/
 
 
 CSS, estilizando seu primeiro site:
-intermediário:
 
 Em produção.
